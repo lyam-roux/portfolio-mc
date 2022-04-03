@@ -1,7 +1,7 @@
 
 .degrader{
     position: absolute;
-    z-index: -20;
+    z-index: -5;
     height: 100%;
     width: 100%;
 }
@@ -71,16 +71,16 @@ p{
     font-weight: 400;
     font-size: 18px;
     line-height: 23px;
-    padding-right: 8vh;
+    /* padding-right: 8vh; */
     margin-bottom: 8vh;
    
     
 }
+
 .para{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-top: 75px;
+    position: absolute;
+    top: 45%;
+    right: 51%;
     
 }
 
@@ -89,6 +89,7 @@ p{
     display: flex;
     justify-content: space-between;
 }
+
 .box-mad-clin{
     display: flex;
     flex-direction: column;
@@ -98,8 +99,12 @@ p{
 }
 
 .box-txt-card img{
-    width: 45%;
+    width: 40%;
+    height: 20%;
     margin-top: 10vh;
+    z-index: -50;
+    margin-left: 10vh;
+    transform: rotate(12.65deg);
 }
 
 
