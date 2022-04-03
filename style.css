@@ -108,3 +108,27 @@ p{
 }
 
 
+.logo{
+    z-index: -50;
+    margin-top: 20%;
+
+}
+
+.vdeux{
+    position: absolute;
+    width: 332.11px;
+    height: 149.54px;
+    left: 10%;
+    top: 80%;
+
+}
+
+.LAB{
+    position: absolute;
+    z-index: -55;
+    width: 381.33px;
+    height: 159.3px;
+    left: 70%;
+    top: 12%;
+
+}
