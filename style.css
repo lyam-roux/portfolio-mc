@@ -1,4 +1,47 @@
 
+
+
+/* Scrollbar Styling */
+::-webkit-scrollbar {
+    width: 7px;
+    height: min-content;
+}
+ 
+::-webkit-scrollbar-track {
+    background-color: #ebebeb00;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background: #6d6d6d; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.degrader2{
+    position: absolute;
+    width: 100%;
+    height:100%;
+    top: 1300px;
+    opacity: 68%;
+    z-index: -50;
+
+}
 .degrader{
     position: absolute;
     z-index: -5;
@@ -110,7 +153,7 @@ p{
 
 .logo{
     z-index: -50;
-    margin-top: 20%;
+    margin-top: 35%;
 
 }
 
@@ -119,7 +162,7 @@ p{
     width: 332.11px;
     height: 149.54px;
     left: 10%;
-    top: 80%;
+    top: 75%;
 
 }
 
