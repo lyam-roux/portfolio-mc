@@ -72,6 +72,7 @@ p{
     font-size: 18px;
     line-height: 23px;
     padding-right: 8vh;
+    margin-bottom: 8vh;
    
     
 }
@@ -80,6 +81,7 @@ p{
     flex-direction: column;
     align-items: center;
     margin-top: 75px;
+    
 }
 
 .box-txt-card{
