@@ -185,7 +185,9 @@ h3{
     font-weight: 600;
     font-size: 29px;
     line-height: 59px;
-    color: #FFFFFF;
+    color: #AAAAAA;
+
+    
     
 }
 
@@ -195,7 +197,7 @@ h3{
     font-weight: 700;
     font-size: 44px;
     line-height: 78px;
-    color: #AAAAAA;
+    color: #FFFFFF;
 
 
 }
@@ -208,7 +210,7 @@ h4{
     font-weight: 600;
     font-size: 29px;
     line-height: 59px;
-    color: #FFFFFF;
+    color: #AAAAAA;
     
 
 }
@@ -227,4 +229,11 @@ h4{
     position: absolute; 
     top: 90%;
    
+}
+
+
+.box-mad-clin p{
+    margin-top: -5%;
+    margin-left: 2%;
+    color: #aaaaaa6b;
 }
