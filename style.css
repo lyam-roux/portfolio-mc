@@ -156,7 +156,7 @@ p{
 
 .logo{
     z-index: -50;
-    margin-top: 8%;
+    margin-top: 5%;
 
 }
 
@@ -185,7 +185,7 @@ h3{
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 600;
-    font-size: 48px;
+    font-size: 29px;
     line-height: 59px;
     color: #FFFFFF;
     
@@ -195,7 +195,7 @@ h3{
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 700;
-    font-size: 64px;
+    font-size: 44px;
     line-height: 78px;
     color: #AAAAAA;
 
