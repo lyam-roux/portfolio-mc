@@ -5,17 +5,22 @@ html, body {margin: 0px; height: 100%; overflow: hidden}
    
 a{
     text-decoration: none; 
-    font-size: 21px;
-    line-height: 23px;
     color: #AAAAAA;
     font-family: 'Roboto';
-    font-weight: 500;
     margin: 90px;
     margin-right: 85px;
     margin-left: 10px;
+    font-weight: 600;
+    font-size: 70px;
+    line-height: 85px;
+
 }
 
+.gris{
+    color: #AAAAAA;
 
+
+}
 
 body{
     display: flex;
@@ -33,17 +38,24 @@ body{
     
 }
 
+.font{
+  
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index: -5;
+
+}
+
 
 
 h1{
     font-family: 'Montserrat';
-    color: #ffffff;
-    font-weight: 500;
-    font-size: 62px;
-    line-height: 116px;
-    margin-top: 5%;
-
-  
+    margin-top: 8%;
+    font-weight: 500    ;
+    font-size: 45px;
+    color: #fff;
+    margin-left: -60%;
 }
 
 
@@ -58,9 +70,24 @@ a{
     font-size: 27px;
     line-height: 32px;
     color: #AAAAAA;
-   
     margin: 40px;
     margin-right: 85px;
     margin-left: 10px;
 }
 
+.disk{
+    position: absolute;
+    width: 35%;
+    z-index: -20;
+    top: 19%;
+    left: 50%;
+
+}
+
+.qr{
+    position: absolute;
+    width: 34%;
+    left: 60%;
+    top: 78%; 
+    z-index: -50;
+}
