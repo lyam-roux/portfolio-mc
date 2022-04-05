@@ -307,6 +307,8 @@ h4{
     width: 14%;
     transform: rotate(8.65deg);
     right: 32%;
+    bottom: -240px;
+
 }
 .end{
     position: absolute;
