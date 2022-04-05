@@ -298,23 +298,30 @@ h4{
     position: absolute;
     width: 13%;
     transform: rotate(-8.65deg);
-    right: 40%;
-    bottom: -232px;
+    right: 50%;
+    bottom: -332px;
 
 }
 .next2{
     position: absolute;
     width: 14%;
     transform: rotate(8.65deg);
-    right: 32%;
-    bottom: -240px;
+    right: 42%;
+    bottom: -340px;
 
 }
 .end{
     position: absolute;
     width: 20%;
     transform: rotate(8.65deg);
-    right: 10%;
-    bottom: -270px;
+    right: 17%;
+    bottom: -370px;
 
 }
+
+.zigag{
+    position: relative;
+    z-index: -30;
+    right: -15%;  
+}
+
