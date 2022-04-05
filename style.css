@@ -299,7 +299,7 @@ h4{
     width: 13%;
     transform: rotate(-8.65deg);
     right: 50%;
-    bottom: -332px;
+    bottom: -432px;
 
 }
 .next2{
@@ -307,7 +307,7 @@ h4{
     width: 14%;
     transform: rotate(8.65deg);
     right: 42%;
-    bottom: -340px;
+    bottom: -440px;
 
 }
 .end{
@@ -315,7 +315,7 @@ h4{
     width: 20%;
     transform: rotate(8.65deg);
     right: 17%;
-    bottom: -370px;
+    bottom: -470px;
 
 }
 
@@ -323,5 +323,16 @@ h4{
     position: relative;
     z-index: -30;
     right: -15%;  
+    opacity: 30%;
+
 }
 
+.glob{
+    position: absolute;
+    top: 245%;
+    right: 33%;
+    width: 45%;
+    opacity: 30%;
+    z-index: -50;
+
+}
